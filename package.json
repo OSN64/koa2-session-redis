@@ -24,7 +24,7 @@
   "homepage": "https://github.com/lonord/koa2-session-redis#readme",
   "dependencies": {
     "bluebird": "^3.5.0",
-    "debug": "^2.6.3",
+    "debug": "^3.1.0",
     "redis": "^2.7.1"
   }
 }
